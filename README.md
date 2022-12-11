@@ -10,5 +10,6 @@ Se você é uma pessoa abacatinha ativa, coloque seu nome abaixo
 | Leticia Levxyca | Abacateira|
 | Lissa| Abacateira|
 | Morganna Giovanelli| Abacateira e Abacatinha|
+| Norton | Abacatinho |
 
 
