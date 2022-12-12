@@ -11,5 +11,6 @@ Se você é uma pessoa abacatinha ativa, coloque seu nome abaixo
 | Lissa| Abacateira|
 | Morganna Giovanelli| Abacateira e Abacatinha|
 | Norton | Abacatinho |
+| Andrei | Abacatinho |
 
 
